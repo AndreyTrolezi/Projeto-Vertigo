@@ -24,8 +24,18 @@ main {
     padding-inline: 1.5rem;
 }
 
+.desc {
+    margin-bottom: 2.5rem;
+}
+
 .desc h1 {
     color: var(--gray-800);
     margin-bottom: 1rem;
     font-size: 1.5625rem;
+}
+
+.desc p {
+    font-size: 0.8125rem;
+    color: var(--gray-600);
+    margin-bottom: 2.5rem;
 }
